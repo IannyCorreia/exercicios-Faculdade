@@ -1,4 +1,4 @@
-def exibir_alerta():
+def exibirAlerta():
     print("ATENÇÃO: Este é um alerta!")
 
-exibir_alerta()
+exibirAlerta()

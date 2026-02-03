@@ -5,7 +5,6 @@ def somarElementos(lista):
     return total
 
 valores = []
-
 for i in range(5):
     valor = int(input(f"Digite o {i+1}° valor: "))
     valores.append(valor)
